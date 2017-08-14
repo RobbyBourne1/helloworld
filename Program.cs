@@ -7,7 +7,7 @@ namespace helloworld
         static void Main(string[] args)
         {
             // code that we want to write
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(".Net Rules");
         }
     }
 }
